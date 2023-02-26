@@ -34,7 +34,7 @@ public class Strings {
         // remember, string is an object.
         // == checks only the object reference, not the character sequence.
         System.out.println("==================================");
-        System.out.println(test==test2);
+        System.out.println(test == test2);
         System.out.println("EQUALS: " + test.equals(test2));
         System.out.println("==================================");
         System.out.println();
